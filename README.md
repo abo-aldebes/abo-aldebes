@@ -7,7 +7,7 @@ IT student and competitive programmer from Jordan.
 ## What I use
 - Python
 - C#
-- HTML / CSS
+- HTML / CSS / JS
 - Git & GitHub
 
 ## Focus
