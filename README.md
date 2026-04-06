@@ -16,4 +16,4 @@ IT student and competitive programmer from Jordan.
 - Real projects over talk
 
 ## Work
-I publish what I build. Check the repositories.
+I publish what I build. Check the repositories soon.
